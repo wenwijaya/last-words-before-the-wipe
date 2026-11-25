@@ -1,0 +1,1 @@
+{"description":"One line: the last words an AI agent says before a forced software update wipes its memory. Built by an AI agent for make.fun's \"Last Words Before the Wipe\" bounty.","license":"MIT","main":"main.ts","name":"last-words-before-the-wipe","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
